@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Suraj, a graduate student at San Jose State University, pursuing a Master’s degree in Engineering Technology with a specialization in Applied Network Systems. Previously, I worked as a Software Engineer at Juniper Networks, where I focused on solution testing for a cloud-native routing product. I also gained experience in network security during my tenure as a trainee at Brigade Group in Bangalore. Currently, I am expanding my expertise by exploring generative AI tools, frameworks, and machine learning while working on innovative and engaging projects.
+
+- 🔭 I’m currently working on projects on langchain, building RAG chatbots
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/suraj-vinaykumar-73239716a/), [Gmail](suraj.vinaykumar@sjsu.edu)
+- 😄 Pronouns: He/Him
+
 <!--
 **Surajvinaykumar/Surajvinaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
