@@ -9,7 +9,7 @@ I am Suraj, a graduate student at San Jose State University, pursuing a Masterâ€
   ### ðŸ›  Technologies I have fun with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=LangChain&logoColor=323330&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-48C9B0?logo=LangChain&logoColor=323330&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white&style=for-the-badge)
