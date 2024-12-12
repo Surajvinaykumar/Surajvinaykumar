@@ -16,6 +16,7 @@ I am Suraj, a graduate student at San Jose State University, pursuing a Masterâ€
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge)
 ![Pytroch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-EE4C2C?logo=React&logoColor=white&style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-F4F6F7?logo=OpenAIt&logoColor=white&style=for-the-badge)
 
 
 
